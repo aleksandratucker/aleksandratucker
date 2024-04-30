@@ -8,7 +8,7 @@
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium, SciPy.
   
-- **Databases:**: PostgreSQL, MySQL.
+- **Databases**: PostgreSQL, MySQL.
   
 - **BI**: Tableau, Yandex DataLens.
 
